@@ -1,6 +1,6 @@
 class Hello
   def say_hello
-    puts "Hello!"
+    puts "Hello"
   end
 
   def say_goodbye
