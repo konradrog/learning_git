@@ -1,3 +1,3 @@
 This is not my project.
 
-Newest version is 1.0
+Newest version is 1.1.
